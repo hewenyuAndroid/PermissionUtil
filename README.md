@@ -3,7 +3,13 @@
 
 申请单个权限：
 ![single](https://github.com/hewenyuAndroid/PermissionUtil/blob/master/screen/applySingle.gif)
+
+申请多个权限
 ![multi](https://github.com/hewenyuAndroid/PermissionUtil/blob/master/screen/applyMulti.gif)
+
+### 引用方式
+
+> compile 'com.hewenyu:Permission:1.0'
 
 ### 使用方式
 
